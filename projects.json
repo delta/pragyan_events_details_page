@@ -14,6 +14,10 @@
 				"img": "images/members/NimishAgrawal.jpg"
 			},
 			{
+				"name": "Adwiath",
+				"img": "images/members/AdwaithD.jpg"
+			},
+			{
 				"name": "Ishani",
 				"img": "images/members/IshaniSrivastava.jpg"
 			},
@@ -90,6 +94,10 @@
 			{
 				"name": "Anu",
 				"img": "images/members/batch-2022/AnuEJohn.jpg"
+			},
+			{
+				"name": "Eswar",
+				"img": "images/members/batch-2022/EswaraPrasad.png"
 			}
 		],
 		"active":true
@@ -121,6 +129,10 @@
 				"img": "images/members/DeerajEsvarR.jpg"
 			},
 			{
+				"name": "Ragland",
+				"img": "images/members/Ragland Asir.jpg"
+			},
+			{
 				"name": "Vikram",
 				"img": "images/members/batch-2022/vikramvijai.jpg"
 			},
@@ -131,6 +143,10 @@
 			{
 				"name": "Shohan",
 				"img": "images/members/batch-2022/shohan.jpg"
+			},
+			{
+				"name": "Shashank",
+				"img": "images/members/batch-2022/Shashank.jpg"
 			},
 			{
 				"name": "Bhavesh",
@@ -199,6 +215,10 @@
 				"img": "images/members/RamSreevaths.jpg"
 			},
 			{
+				"name": "Preetham",
+				"img": "images/members/PreethamK.jpg"
+			},
+			{
 				"name": "Sandhya",
 				"img": "images/members/SandhyaS.jpeg"
 			},
@@ -221,6 +241,23 @@
 			{
 				"name": "Bhavesh",
 				"img": "images/members/batch-2022/BhaveshMandhan.jpg"
+			}
+		],
+		"active":true
+	},
+	{
+		"title":"Labyrinth",
+		"desc": "Labyrinth is an online treasure hunt event that tests your technical and analytical skills. This event will require immense general knowledge, prowess over the art of decoding clues and a lot of common sense, coupled with a faithful internet connection.",
+		"link":"https://www.pragyan.org/20/home/events/phronesis/labyrinth/",
+		"img":"images/labyrinth.jpg",
+		"developers": [
+			{
+				"name": "Sandhya",
+				"img": "images/members/SandhyaS.jpeg"
+			},
+			{
+				"name": "Vivek",
+				"img": "images/members/Vivek Raveendran.jpg"
 			}
 		],
 		"active":true
