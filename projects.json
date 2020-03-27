@@ -3,59 +3,43 @@
 		"title":"Dalal Street",
 		"desc": "If the words Sensex and Nasdaq ring bells to you, we at Pragyan, have the perfect platform for you to test your trading skills and see if you understand the evolution of trade from barter to modern day stock exchange. Grit your teeth, take calculated risks under pressure and become the richest player in the market!",
 		"link":"https://www.pragyan.org/20/home/events/manigma/dalal_street/",
-		"img":"/images/dalal.jpeg",
+		"img":"images/dalal.jpeg",
 		"developers": [
 			{
-				"name": "Akshay Pai",
-				"img": "/images/members/Pai.jpg"
-			},
-			{
-				"name": "Sibi",
-				"img": "/images/members/Sibi.jpg"
-			},
-			{
-				"name": "Santhosh",
-				"img": "/images/members/santhosh_kumar_m.jpg"
-			},
-			{
 				"name": "Harsh",
-				"img": "/images/members/harsh.jpg"
+				"img": "images/members/harsh.jpg"
 			},
 			{
 				"name": "Nimish",
-				"img": "/images/members/NimishAgrawal.jpg"
+				"img": "images/members/NimishAgrawal.jpg"
 			},
 			{
 				"name": "Ishani",
-				"img": "/images/members/IshaniSrivastava.jpg"
-			},
-			{
-				"name": "Sandhya",
-				"img": "/images/members/SandhyaS.jpeg"
+				"img": "images/members/IshaniSrivastava.jpg"
 			},
 			{
 				"name": "Vivek",
-				"img": "/images/members/Vivek Raveendran.jpg"
+				"img": "images/members/Vivek Raveendran.jpg"
 			},
 			{
 				"name": "Abeshek",
-				"img": "/images/members/batch-2022/ Abeshek R.jpg"
+				"img": "images/members/batch-2022/ Abeshek R.jpg"
 			},
 			{
 				"name": "Pranav",
-				"img": "/images/members/batch-2022/PranavShriram.jpeg"
+				"img": "images/members/batch-2022/PranavShriram.jpeg"
 			},
 			{
 				"name": "Mei",
-				"img": "/images/members/batch-2022/meivenkatkumar.jpg"
+				"img": "images/members/batch-2022/meivenkatkumar.jpg"
 			},
 			{
 				"name": "Aditya Rana",
-				"img": "/images/members/batch-2022/AdityaRana.jpg"
+				"img": "images/members/batch-2022/AdityaRana.jpg"
 			},
 			{
 				"name": "Avi",
-				"img": "/images/members/batch-2022/Avi.jpg"
+				"img": "images/members/batch-2022/Avi.jpg"
 			}
 		],
 		"active":true
@@ -65,55 +49,47 @@
 		"title":"Code Character",
 		"desc": "Code Character is an online AI programming match, where one writes C++ code to control troops in a real-time strategy game. Test your code against yourself, our AIs and then everyone else’s. Challenge others to improve your rating as you climb up the leaderboard!",
 		"link":"https://www.pragyan.org/20/home/events/bytehoc/code_character/",
-		"img":"/images/code.jpeg",
+		"img":"images/code.jpeg",
 		"developers": [
 			{
-				"name": "Tanvi",
-				"img": "/images/members/Tanvi.jpg"
-			},
-			{
-				"name": "Shivashis",
-				"img": "/images/members/ShivashisP.jpg"
-			},
-			{
 				"name": "Sai",
-				"img": "/images/members/Sai_Hemanth_B.jpeg"
+				"img": "images/members/Sai_Hemanth_B.jpeg"
 			},
 			{
 				"name": "Kumaran", 
-        "img": "/images/members/Kumaran.jpg"
+			        "img": "images/members/Kumaran.jpg"
 			},
 			{
 				"name": "Mario", 
-        "img": "/images/members/MarioJones.jpg"
+			        "img": "images/members/MarioJones.jpg"
 			},
 			{
 				"name": "Subash", 
-        "img": "/images/members/SubashAravindan.jpg"
+			        "img": "images/members/SubashAravindan.jpg"
 			},
 			{
 				"name": "Hrishikesh", 
-        "img": "/images/members/HrishikeshShekhar.jpg"
+			        "img": "images/members/HrishikeshShekhar.jpg"
 			},
 			{
 				"name": "Jithendaraa", 
-        "img": "/images/members/Jithendaraa.jpg"
+			        "img": "images/members/Jithendaraa.jpg"
 			},
 			{
 				"name": "Bestin",
-				"img": "/images/members/batch-2022/Bestin.jpeg"
+				"img": "images/members/batch-2022/Bestin.jpeg"
 			},
 			{
 				"name": "Chethan",
-				"img": "/images/members/batch-2022/Chethan.jpg"
+				"img": "images/members/batch-2022/Chethan.jpg"
 			},
 			{
 				"name": "Ram",
-				"img": "/images/members/batch-2022/RamTN.jpeg"
+				"img": "images/members/batch-2022/RamTN.jpeg"
 			},
 			{
 				"name": "Anu",
-				"img": "/images/members/batch-2022/AnuEJohn.jpg"
+				"img": "images/members/batch-2022/AnuEJohn.jpg"
 			}
 		],
 		"active":true
@@ -122,51 +98,43 @@
 		"title":"Pragyan Premier League",
 		"desc":"Pragyan Premier League is an online fantasy cricket league that lets you manage your own team. From buying your squad to deciding the line-ups, your decisions decide the fate of your team. A dynamic environment combined with real, rival managers worldwide forces you to strategize and master the odds to outwit your opponent.",
 		"link":"https://www.pragyan.org/20/home/events/manigma/pragyan_premier_league/",
-		"img":"/images/ppl.jpeg",
+		"img":"images/ppl.jpeg",
 		"developers": [
 			{
-				"name": "K Anirudh",
-				"img": "/images/members/Anirudh.jpeg"
-			},
-			{
 				"name": "Ajish",
-				"img": "/images/members/Ajish.jpeg"
-			},
-			{
-				"name": "Vikram",
-				"img": "/images/members/Vikram.jpg"
+				"img": "images/members/Ajish.jpeg"
 			},
 			{
 				"name": "Hariprasanth",
-				"img": "/images/members/Hari.jpg"
+				"img": "images/members/Hari.jpg"
 			},
 			{
 				"name": "Rahul",
-				"img": "/images/members/RahulVS.jpg"
+				"img": "images/members/RahulVS.jpg"
 			},
 			{
 				"name": "Adarsh",
-				"img": "/images/members/AdarshPatel.jpg"
+				"img": "images/members/AdarshPatel.jpg"
 			},
 			{
 				"name": "Deeraj",
-				"img": "/images/members/DeerajEsvarR.jpg"
+				"img": "images/members/DeerajEsvarR.jpg"
 			},
 			{
 				"name": "Vikram",
-				"img": "/images/members/batch-2022/vikramvijai.jpg"
+				"img": "images/members/batch-2022/vikramvijai.jpg"
 			},
 			{
 				"name": "Shrey",
-				"img": "/images/members/batch-2022/ShreyGarg.jpg"
+				"img": "images/members/batch-2022/ShreyGarg.jpg"
 			},
 			{
 				"name": "Shohan",
-				"img": "/images/members/batch-2022/shohan.jpg"
+				"img": "images/members/batch-2022/shohan.jpg"
 			},
 			{
 				"name": "Bhavesh",
-				"img": "/images/members/batch-2022/BhaveshMandhan.jpg"
+				"img": "images/members/batch-2022/BhaveshMandhan.jpg"
 			}
 		],
 		"active":true
@@ -175,55 +143,47 @@
 		"title":"Beer Factory",
 		"desc": "Beer Factory is an online strategy-based, single-player game that is designed to test the art of resource management. Participants manage the production and management processes in a beer factory and attempt to maximize the factory’s profit to gain popularity. Each participant competes against a computer-simulated opponent.",
 		"link":"https://www.pragyan.org/20/home/events/manigma/beer_factory/",
-		"img":"/images/beer.jpeg",
+		"img":"images/beer.jpeg",
 		"developers": [
 			{
 				"name": "Nandha",
-				"img": "/images/members/NandhaKishore.jpg"
-			},
-			{
-				"name": "Naven",
-				"img": "/images/members/Naven.jpg"
+				"img": "images/members/NandhaKishore.jpg"
 			},
 			{
 				"name": "Bharath",
-				"img": "/images/members/BharathKumarR.jpg"
-			},
-			{
-				"name": "Ram",
-				"img": "/images/members/RamSreevaths.jpg"
+				"img": "images/members/BharathKumarR.jpg"
 			},
 			{
 				"name": "Abishake",
-				"img": "/images/members/Abishake.jpg"
+				"img": "images/members/Abishake.jpg"
 			},
 			{
-				"name": "Kareen",
-				"img": "/images/members/Karaen.jpg"
+				"name": "Karen",
+				"img": "images/members/Karaen.jpg"
 			},
 			{
 				"name": "Aditya",
-				"img": "/images/members/Aditya.jpg"
+				"img": "images/members/Aditya.jpg"
 			},
 			{
 				"name": "Aananth",
-				"img": "/images/members/batch-2022/AananthV.jpeg"
+				"img": "images/members/batch-2022/AananthV.jpeg"
 			},
 			{
 				"name": "Ahmed",
-				"img": "/images/members/batch-2022/ahmed.jpg"
+				"img": "images/members/batch-2022/ahmed.jpg"
 			},
 			{
 				"name": "Pavithra",
-				"img": "/images/members/batch-2022/pavithra.jpg"
+				"img": "images/members/batch-2022/pavithra.jpg"
 			},
 			{
 				"name": "Jayashrri",
-				"img": "/images/members/batch-2022/JayashrriBalaji.jpg"
+				"img": "images/members/batch-2022/JayashrriBalaji.jpg"
 			},
 			{
 				"name": "Tejus",
-				"img": "/images/members/batch-2022/Tejus.JPG"
+				"img": "images/members/batch-2022/Tejus.JPG"
 			}
 		],
 		"active":true
@@ -232,35 +192,35 @@
 		"title":"Capture The Flag",
 		"desc": "“Knowing is not enough; we must apply. Willing is not enough; we must do.” In simple words, Capture the Flag (CTF) is a computer security competition. It distils major disciplines of professional computer security work into short, objectively measurable exercises.",
 		"link":"https://www.pragyan.org/20/home/events/bytehoc/capture_the_flag/",
-		"img":"/images/ctf.jpeg",
+		"img":"images/ctf.jpeg",
 		"developers": [
 			{
 				"name": "Ram",
-				"img": "/images/members/RamSreevaths.jpg"
+				"img": "images/members/RamSreevaths.jpg"
 			},
 			{
 				"name": "Sandhya",
-				"img": "/images/members/SandhyaS.jpeg"
+				"img": "images/members/SandhyaS.jpeg"
 			},
 			{
 				"name": "Deeraj",
-				"img": "/images/members/DeerajEsvarR.jpg"
+				"img": "images/members/DeerajEsvarR.jpg"
 			},
 			{
 				"name": "Chethan",
-				"img": "/images/members/batch-2022/Chethan.jpg"
+				"img": "images/members/batch-2022/Chethan.jpg"
 			},
 			{
 				"name": "Jayashrri",
-				"img": "/images/members/batch-2022/JayashrriBalaji.jpg"
+				"img": "images/members/batch-2022/JayashrriBalaji.jpg"
 			},
 			{
 				"name": "Mei",
-				"img": "/images/members/batch-2022/meivenkatkumar.jpg"
+				"img": "images/members/batch-2022/meivenkatkumar.jpg"
 			},
 			{
 				"name": "Bhavesh",
-				"img": "/images/members/batch-2022/BhaveshMandhan.jpg"
+				"img": "images/members/batch-2022/BhaveshMandhan.jpg"
 			}
 		],
 		"active":true
