@@ -246,6 +246,55 @@
 		"active":true
 	},
 	{
+		"title":"Pragyan Android",
+		"desc": "The official app for Pragyan '20, the annual International Techno-management Organisation of the National Institute of Technology, Tiruchirappalli",
+		"link":"https://play.google.com/store/apps/details?id=com.pragyan20.app",
+		"img":"images/pragyanandroid.jpeg",
+		"developers": [
+			{
+				"name": "Aditya",
+				"img": "images/members/Aditya.jpg"
+			},
+			{
+				"name": "Vivek",
+				"img": "images/members/Vivek Raveendran.jpg"
+			},
+			{
+				"name": "Mario", 
+			        "img": "images/members/MarioJones.jpg"
+			},
+			{
+				"name": "Karen",
+				"img": "images/members/Karaen.jpg"
+			},
+			{
+				"name": "Rahul",
+				"img": "images/members/RahulVS.jpg"
+			},
+			{
+				"name": "Bestin",
+				"img": "images/members/batch-2022/Bestin.jpeg"
+			},
+			{
+				"name": "Avi",
+				"img": "images/members/batch-2022/Avi.jpg"
+			},
+			{
+				"name": "Shrey",
+				"img": "images/members/batch-2022/ShreyGarg.jpg"
+			},
+			{
+				"name": "Aditya Rana",
+				"img": "images/members/batch-2022/AdityaRana.jpg"
+			},
+			{
+				"name": "Tejus",
+				"img": "images/members/batch-2022/Tejus.JPG"
+			}
+		],
+		"active":true
+	},
+	{
 		"title":"Labyrinth",
 		"desc": "Labyrinth is an online treasure hunt event that tests your technical and analytical skills. This event will require immense general knowledge, prowess over the art of decoding clues and a lot of common sense, coupled with a faithful internet connection.",
 		"link":"https://www.pragyan.org/20/home/events/phronesis/labyrinth/",
@@ -258,6 +307,10 @@
 			{
 				"name": "Vivek",
 				"img": "images/members/Vivek Raveendran.jpg"
+			},
+			{
+				"name": "Aditya",
+				"img": "images/members/Aditya.jpg"
 			}
 		],
 		"active":true
